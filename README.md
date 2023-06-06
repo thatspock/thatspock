@@ -1,6 +1,3 @@
-### Howdy! 👋
-<p>I'm Vladimir. Immersed in the captivating world of Python learning, I'm nurturing my skills to dive deeper into the intricacies of automation testing. 
-Specialized in testing processes, I'm motivated to ensure software performs at its absolute best.</p>
-With a growing interest in generative graphics, I find joy in exploring the unexpected beauty of algorithmic art.</p>
-Always on the hunt for new knowledge and technologies, my journey is powered by constant curiosity and a dedication to pushing the limits of what's possible.</p>
-<b>Stay awesome!</b>
+### <p align="center"><samp>Howdy! 👋</samp></p> 
+<p align="center"><samp>I'm Vladimir. As an aspiring Python enthusiast, I specialize in automation testing. I'm also fascinated by generative graphics and love exploring new technologies. Originally from Saint Petersburg (Russia)<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=thatspock&show_icons=true" alt="ThatSpock Github Stats"></img></samp></p>
