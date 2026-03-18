@@ -7,16 +7,22 @@ class Builder {
   #from = 'Saint Petersburg → building from anywhere'
 
   stack = {
-    ship:    ['Next.js', 'React', 'Tailwind', 'Node.js'],
-    ai:      ['Claude API', 'OpenAI', 'Perplexity'],
-    infra:   ['Vercel', 'Supabase', 'Stripe', 'DigitalOcean'],
-    also:    ['Python', 'Selenium', 'ffmpeg']
+    ship:    ['Next.js', 'React', 'Tailwind', 'Node.js', 'Python'],
+    ai:      ['Claude', 'GPT', 'Gemini', 'Grok', 'Perplexity', 'Whisper', 'ElevenLabs'],
+    data:    ['PostgreSQL', 'Redis', 'Supabase', 'Drizzle'],
+    infra:   ['Vercel', 'DigitalOcean', 'Docker', 'Nginx', 'GitHub Actions'],
+    media:   ['FFmpeg', 'Stable Diffusion', 'p5.js']
   }
 
-  interests = ['generative graphics', 'AI products', 'GEO/LLM visibility']
+  interests = [
+    'generative art & creative coding',
+    'AI-powered products',
+    'automation that removes humans from the loop'
+  ]
 
   building = [
     'SaaS tools that talk to LLMs',
+    'Telegram bots that make things',
     'things that didn\'t exist yesterday'
   ]
 
