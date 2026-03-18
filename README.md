@@ -1,19 +1,30 @@
 ### <p align="center"><samp>Howdy! 👋</samp></p> 
-<p align="center"><samp>I'm Vladimir. As an aspiring Python enthusiast, I specialize in automation testing. I'm also fascinated by generative graphics and love exploring new technologies. Originally from Saint Petersburg (Russia)<br><br>
+<p align="center"><samp>I'm Vladimir. I build products with AI and ship fast. Background in automation and generative graphics. Currently deep into LLM-powered SaaS.<br><br>
   
-```python
-class AutomationEngineer:
-  
-  def __init__(self):
-    self.code = [Python, Swift, HTML, CSS]
-    self.tools = [Jenkins, Selene, Selenium]
-    self.architecture = [tbc, tbc, tbc]
-    self.language_spoken = ['RU', 'EN']
-    self.challeng = 'I am doing the #100DaysOfCode challenge focused on python'
-  
-  def say_hi(self):
-        print("Stay awesome!")
+```javascript
+class Builder {
+  #name = 'Vladimir'
+  #from = 'Saint Petersburg → building from anywhere'
 
-me = AutomationEngineer()
-me.say_hi()
+  stack = {
+    ship:    ['Next.js', 'React', 'Tailwind', 'Node.js'],
+    ai:      ['Claude API', 'OpenAI', 'Perplexity'],
+    infra:   ['Vercel', 'Supabase', 'Stripe', 'DigitalOcean'],
+    also:    ['Python', 'Selenium', 'ffmpeg']
+  }
+
+  interests = ['generative graphics', 'AI products', 'GEO/LLM visibility']
+
+  building = [
+    'SaaS tools that talk to LLMs',
+    'things that didn\'t exist yesterday'
+  ]
+
+  languages = { human: ['ru', 'en'], machine: ['js', 'ts', 'py'] }
+
+  toString() {
+    return `less talking, more shipping 🚀`
+  }
+}
 ```
+
