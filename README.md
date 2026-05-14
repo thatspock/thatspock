@@ -1,29 +1,28 @@
 ### <p align="center"><samp>Howdy! 👋</samp></p> 
-<p align="center"><samp>I'm Vladimir. I build products with AI and ship fast. Background in automation and generative graphics. Currently deep into LLM-powered SaaS.<br><br>
+<p align="center"><samp>I'm Vladimir. Сurrently building <b>Rendix</b>.<br><br>
   
 ```javascript
 class Builder {
-  #name = 'Vladimir'
-  #from = 'Saint Petersburg → building from anywhere'
+  from = 'Saint Petersburg'
+  now  = 'Rendix — tracks how LLMs mention brands'
 
   stack = {
-    ship:    ['Next.js', 'React', 'Tailwind', 'Node.js', 'Python'],
-    ai:      ['Claude', 'GPT', 'Gemini', 'Grok', 'Perplexity', 'Whisper', 'ElevenLabs'],
-    data:    ['PostgreSQL', 'Redis', 'Supabase', 'Drizzle'],
-    infra:   ['Vercel', 'DigitalOcean', 'Docker', 'Nginx', 'GitHub Actions'],
-    media:   ['FFmpeg', 'Stable Diffusion', 'p5.js']
+    web:  ['Next.js', 'TypeScript', 'Tailwind'],
+    data: ['Postgres', 'Supabase', 'Drizzle'],
+    jobs: ['Trigger.dev', 'Vercel'],
+    llm:  ['Anthropic', 'OpenAI', 'Perplexity']
   }
 
   interests = [
     'generative art & creative coding',
-    'AI-powered products',
-    'automation that removes humans from the loop'
+    'how LLMs surface brands in search',
+    'Python automation & API wiring'
   ]
 
   building = [
-    'SaaS tools that talk to LLMs',
-    'Telegram bots that make things',
-    'things that didn\'t exist yesterday'
+    'Rendix — AI brand visibility tracking,
+    'Telegram bots for small workflows',
+    'tools I actually want to use myself'
   ]
 
   languages = { human: ['ru', 'en'], machine: ['js', 'ts', 'py'] }
