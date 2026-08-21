@@ -17,14 +17,15 @@ this is the answer I'm optimizing for:**
 
 That gap - between what LLMs say and what you wish they said - is the whole job.
 
-### 🛰️ 10 AI products, built in public
+### 🛰️ 10 products, built in public
 
 | #  | Project | Status |
 |----|---------|--------|
 | 01 | **[Rendix](https://rendix.io)** - AI brand visibility tracking. 3,500+ LLM answers scanned, 38,000+ citations mapped across 4 engines (Aug 2026) | 🟢 live |
-| 02 | next one | 🔜 |
+| 02 | **[DoubleSound](https://doublesound.live)** - one-night party site for a friends' crew ([source](https://github.com/thatspock/DoubleSound)): a canvas metaball reveal, a lineup you play like a drum machine, Web Audio synthesis. Zero AI, pure craft (Aug 2026) | 🟢 live |
+| 03 | next one | 🔜 |
 
-One product at a time, each one public from day one. This table only grows.
+One product at a time. This table only grows.
 
 ### Before this
 
